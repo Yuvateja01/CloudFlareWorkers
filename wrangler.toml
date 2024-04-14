@@ -5,7 +5,7 @@ compatibility_date = "2024-04-05"
 compatibility_flags = ["nodejs_compat"]
 
 [vars]
-DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZDRhMjc0YWItNGIyYS00ZDBmLTlkZGEtYTY5ZWQwODdiMDg4IiwidGVuYW50X2lkIjoiZmE0YzBkZjM3ZTRiMTE5ZDdhYzU5NzcwZGUwZTFhNTU1ZTcxMjYyNTRmMzlkYzYwZmZhZTU0M2Y2MTUyY2RiMSIsImludGVybmFsX3NlY3JldCI6IjU4NjhkYmI4LTNjZTYtNGQ5OS1iYmFkLWE5YmNlOTExY2NkMiJ9.YOM5xkCbypNRoXvMU7fezrCQ-BluczJIa2guQ3XbN2U"
+DATABASE_URL=
 
 # Variable bindings. These are arbitrary, plaintext strings (similar to environment variables)
 # Note: Use secrets to store sensitive data.
